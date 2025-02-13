@@ -23,6 +23,7 @@ True Negatives (TN): The number of correctly identified healthy loans.
 False Positives (FP): Some healthy loans misclassified as high-risk.
 False Negatives (FN): Some high-risk loans misclassified as healthy (critical for lenders).
 True Positives (TP): The number of correctly identified high-risk loans.
+
 ![image](https://github.com/user-attachments/assets/44ee7f03-1aec-428d-a389-5e5f4dd23b9e)
 
 Classification Report for the Model: 
