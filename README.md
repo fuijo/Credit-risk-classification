@@ -47,6 +47,7 @@ Class 1 (Minority Class)
 ✔ F1-Score = 0.91 → Strong but not perfect performance, indicating some trade-off between precision and recall.
 
 Overall Performance
+
 ✔ Accuracy = 99% → The model is highly accurate, correctly classifying 99% of instances.
 
 ✔ Macro Avg (0.94 Precision, 0.97 Recall, 0.95 F1-Score) → Balanced performance across both classes.
